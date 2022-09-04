@@ -1,6 +1,6 @@
 ### Oi, eu sou o Fabrício! 👋
 
-- 🚀 Hoje trabalho com Python e Java;
+- 🚀 Hoje trabalho com Python e Java, com ênfase em Data Analysis;
 - 📖 Sempre buscando conhecimento dentro de Python;
 - 🎮 Streamer nas horas vagas.
 
