@@ -1,8 +1,8 @@
 ### Oi, eu sou o Fabrício! 👋
 <div align="center">
   <a href="https://github.com/fabriciomgleal">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fabriciomgleal&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciomgleal&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=fabriciomgleal&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciomgleal&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
 <div style="display: inline_block"><br>
