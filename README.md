@@ -4,6 +4,7 @@
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=fabriciomgleal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciomgleal&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+
 - 🚀 Hoje trabalho com Python e Java, com ênfase em Data Analysis;
 
 - 📖 Sempre buscando conhecimento dentro de Python;
