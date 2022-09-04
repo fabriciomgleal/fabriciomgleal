@@ -1,4 +1,11 @@
-### Hi there 👋
+### Oi, eu sou o Fabrício! 👋
+
+- 🚀 Hoje trabalho com Python e Java;
+- 📖 Sempre buscando conhecimento dentro de Python;
+- 🎮 Streamer nas horas vagas.
+
+
+
 
 <!--
 **fabriciomgleal/fabriciomgleal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
