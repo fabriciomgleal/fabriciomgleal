@@ -1,4 +1,4 @@
-### Oi, eu sou o Fabrício! 👋
+### Hi, i'm Fabrício! 👋
 <div align="center">
   <a href="https://github.com/fabriciomgleal">
   <img height="130em" src="https://github-readme-stats.vercel.app/api?username=fabriciomgleal&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
@@ -26,8 +26,8 @@
     
  </div>
  
-- 🚀 Hoje trabalho com Python e Java, com ênfase em Data Analysis;
+- 🚀 Currently working with data analysis using tools developed in Python, Java and JavaScript;
 
-- 📖 Sempre buscando conhecimento dentro de Python;
+- 📖 Always searching for learning;
 
-- 🎮 Streamer nas horas vagas.
+- 🎮 Streamer in spare time.
